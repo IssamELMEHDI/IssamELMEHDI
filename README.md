@@ -1,4 +1,4 @@
-### Hi, I'm Issam 👋 👩🏾‍💻
+### Hi, I'm Issam 👋🏻👨🏻‍💻
 Welcome to my page on GitHub
 <!-- Followers Count and Views Count -->
 
